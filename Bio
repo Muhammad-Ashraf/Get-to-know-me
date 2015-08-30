@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Hello world</title>
+</head>
+<style>
+body {background-color:lightgrey}
+h1   {color:blue}
+p    {color:green}
+</style>
+<body>
+
+<h1>Who's Muhammad Ashraf ?</h1>
+<p><br>I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.</br> 
+<br>As a Student with many yearsâ€™ of experience in management, I am excellent in working with others to achieve a certain objective on time and with excellence using my sense of leadership and time management.
+</p>
+<h2>Spectacular Mountain</h2>
+<img src="http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/m/mo/mountain/mountain_1.jpg" alt="Mountain View" >
+
+</body>
+</html>
